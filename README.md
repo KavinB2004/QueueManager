@@ -1,4 +1,6 @@
 # QueueManager
+Developed a C library for dynamic priority queue management, equipped with numerous functions for complex queue manipulation, enabling optimized memory management and precise element prioritization with robust leak prevention.
+
 - Developed a C library for priority queues management systems using a linked list data structure in C.    
 
 - Employed advanced memory management techniques such as dynamic memory allocation to ensure efficient organization 
